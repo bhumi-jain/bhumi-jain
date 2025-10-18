@@ -81,5 +81,5 @@
 </p>
 
 <p align="center">
-  ✨ *"Code. Create. Contribute. Repeat."* ✨  
+  ✨ <b>Code Create Contribute Repeat.</b>✨  
 </p>
