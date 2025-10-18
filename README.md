@@ -14,10 +14,16 @@
 💻 I love building impactful and scalable products using **MERN Stack** and **Machine Learning**  
 ⚙️ Skilled in **C++, Java, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, MySQL**  
 🧠 Experienced in **CNNs, NLP, TensorFlow, Keras, XGBoost, REST APIs, and LLMs**  
-🏆 Smart India Hackathon Finalist | Anveshna Prototype Competition Winner | Myntra HackerRamp Pre-Finalist | Unisys Innovation Program Pre-Finalist | Walmart Sparkathon Qualifier
+🏆 **Achievements:**  
+&nbsp;&nbsp;&nbsp;• Smart India Hackathon, Finalist  
+&nbsp;&nbsp;&nbsp;• Anveshna Prototype Competition, Runner-Up  
+&nbsp;&nbsp;&nbsp;• Myntra HackerRamp, Pre-Finalist  
+&nbsp;&nbsp;&nbsp;• Unisys Innovation Program, Pre-Finalist  
+&nbsp;&nbsp;&nbsp;• Walmart Sparkathon, Qualifier    
 
 🌱 Currently exploring **Generative AI & Large Language Models**  
-📫 Reach me at: **bhumijain0744@gmail.com**
+📫 **Reach me at:** [bhumijain0744@gmail.com](mailto:bhumijain0744@gmail.com)
+
 
 ---
 
