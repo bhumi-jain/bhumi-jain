@@ -38,9 +38,15 @@
 ### 💼 Featured Projects
 
 #### 🧑‍🌾 [Krishi Aarogya](https://github.com/bhumi-jain/Krishi-Aarogya)
-> 🧠 Smart India Hackathon Finalist Project  
-> 🌾 Detects crop diseases and predicts yield using **CNNs, XGBoost, and Satellite Imagery**  
-> 🌐 Integrated ML models with **Flask APIs** for real-time farmer support.
+> 🧠 **Smart India Hackathon 2024 Finalist | Role: Machine Learning Lead**  
+> 🌾 Built an AI-powered platform for **crop disease diagnosis and yield prediction**, empowering farmers with data-driven insights  
+> 📈 Achieved **85% precision** in predicting disease outbreaks using **XGBoost** and **92% recall** in crop disease detection with **CNNs (TensorFlow & Keras)**  
+> ☁️ Integrated **Weather API** for anomaly detection and **Google Earth Engine API** for analyzing satellite imagery across **1,000 sq. km**  
+> 🗺️ Developed an **agronomist locator** using **Google Maps API**, connecting **500+ farmers** with experts for real-time agricultural guidance  
+> ⚙️ Optimized model performance to reduce false positives and ensure scalable, high-performance architecture for long-term sustainability  
+
+> 🛠️ **Tech Stack:** Python · TensorFlow · Keras · Flask · PostgreSQL · AWS
+
 
 #### 🌐 [ORBIS](https://github.com/bhumi-jain/ORBIS)
 > 🔗 **Blockchain-Powered Decentralized Platform for AI-Driven Censorship Resistance**  
