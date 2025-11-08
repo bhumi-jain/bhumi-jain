@@ -59,8 +59,13 @@
 
 
 #### 🍔 [Instant Food](https://github.com/bhumi-jain/Instant-Food)
-> 🍕 Real-time MERN stack food delivery app  
-> 🚀 Handles 10k+ orders with optimized APIs & responsive UI  
+> 🍕 **Full-Stack Food Delivery Web Application (MERN Stack)**  
+> ⚙️ Developed a **responsive React frontend** and **scalable MongoDB backend**, handling **10,000+ orders**, **5,000+ users**, and **1,000+ restaurants**  
+> 💳 Integrated **secure third-party payment APIs** and **real-time location services** to enhance reliability and user experience  
+> 🚀 Optimized API efficiency and UI responsiveness, improving transaction success rate by **20%** and ensuring seamless performance under heavy load  
+
+> 🛠️ **Tech Stack:** MongoDB · Express.js · React.js · Node.js (MERN)
+  
 
 #### 🛒 [E-Commerce Website](https://github.com/bhumi-jain/E-Commerce)
 > 💰 Flask + SQL-based platform for 10k+ transactions  
