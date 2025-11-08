@@ -40,7 +40,17 @@
 #### 🧑‍🌾 [Krishi Aarogya](https://github.com/bhumi-jain/Krishi-Aarogya)
 > 🧠 Smart India Hackathon Finalist Project  
 > 🌾 Detects crop diseases and predicts yield using **CNNs, XGBoost, and Satellite Imagery**  
-> 🌐 Integrated ML models with **Flask APIs** for real-time farmer support  
+> 🌐 Integrated ML models with **Flask APIs** for real-time farmer support.
+
+#### 🌐 [ORBIS](https://github.com/bhumi-jain/ORBIS)
+> 🔗 **Blockchain-Powered Decentralized Platform for AI-Driven Censorship Resistance**  
+> 🧠 Fine-tuned **DistilBERT** model using **PyTorch** and **HuggingFace** to detect misinformation and generate **credibility scores (0–1)** for news articles  
+> ⚙️ Developed an **AI-driven two-phase verification workflow** combining automated trust scoring with **token-staked journalist validation** for transparency and accountability  
+> 💾 Integrated **Node.js backend** with **Solidity smart contracts**, **Polygon blockchain**, and **IPFS** for decentralized data storage  
+> 🔐 Ensured security through **Keccak-256** hashing and **ECDSA** cryptographic validation  
+
+> 🛠️ **Tech Stack:** Solidity · Polygon · IPFS · Node.js · Express.js · React.js · PyTorch · HuggingFace
+
 
 #### 🍔 [Instant Food](https://github.com/bhumi-jain/Instant-Food)
 > 🍕 Real-time MERN stack food delivery app  
